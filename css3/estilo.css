@@ -1,0 +1,19 @@
+*{
+background-color: aquamarine;
+}
+.cabecera{
+    width: 500px;
+    height: 60px;
+    background: brown;
+    
+}
+.pie{
+    width: 500px;
+    height: 70px;
+    background:black;
+}
+.cotenido{
+    width: 100%;
+    height:80%;
+    background: gray;
+}
